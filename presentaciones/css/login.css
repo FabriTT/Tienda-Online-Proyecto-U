@@ -1,0 +1,130 @@
+.body_login{
+    background: #ffffff00;
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+.icons{
+    color: white;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+
+body{
+    background: url(../img/fondo_login5.jpg);
+    background-size: 130%;
+}
+
+.centrear{
+  margin-top: 10%;
+}
+
+.imagen{
+    height: 270px;
+    width: auto;
+    filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(164deg) brightness(107%) contrast(101%);
+    margin-bottom: 30px;   
+}
+
+
+h1{
+    color: whitesmoke;
+    font-family: arial;
+    padding-top: 10px;
+}
+
+
+h2{
+    color: whitesmoke;
+    font-family: arial;
+
+
+}
+
+
+.txt{
+    color: white;
+    background: #ffffff00;
+    border: 2px solid white;
+    margin: 15px;
+    height: 50px;
+    width: 335px;
+    border-radius: 15px;
+}
+
+.txt:focus{
+    background: #ffffff00;
+    color: white;
+}
+
+.txt_btn{
+    margin-bottom: 15px;
+    height: 50px;
+
+
+}
+
+.btn_eye{
+    height: 50px;
+
+    margin-top: 15px;
+    background: #ffffff00;
+}
+
+.largo{
+    width: 350px;
+}
+
+.eye{
+    color: whitesmoke;
+   
+}
+
+
+
+
+.guardar{
+    width: 150px;
+    margin-right: auto ;
+    margin-left: auto;
+}
+
+
+.txt_modal{
+    margin: 15px;
+    height: 50px;
+    width: 440px;
+}
+
+.txt_modal2{
+
+    margin-left: 15px;
+    height: 50px;
+    width: 440px;
+}
+
+
+.txt_fecha{
+    margin-left: 10px;
+    height: 50px;
+    width: 200px;
+}
+
+.label{
+    margin-left: 20px;
+}
+
+.diseño_m{
+    background: #1f2626;
+    color: whitesmoke;
+}
+
+
+.btnR{
+    color:red;
+    display: none;
+}

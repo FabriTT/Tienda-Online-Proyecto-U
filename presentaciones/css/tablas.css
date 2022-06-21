@@ -1,0 +1,42 @@
+.tabla{
+   
+    background-color: #1f2626;
+    color: white;
+    text-align: center;
+    margin: 15px;
+    border-collapse: collapse;;
+}
+
+.th_x, .td_x{
+    border: solid 1px white;
+    padding: 15px;
+    
+}
+
+.td_btn{
+    border: solid 1px white;
+    padding: 15px;
+    
+}
+
+.tr_x:nth-child(even){
+    background-color: #5C5E5E;
+}
+
+
+body{
+    background: #1f2626;
+}
+
+thead{
+    background-color: #FFC34B;
+    
+    color: black;
+}
+
+h2{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: white;
+}

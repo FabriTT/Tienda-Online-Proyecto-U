@@ -1,0 +1,67 @@
+body{
+    background: #1f2626;
+}
+
+
+body::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+}
+
+
+body::-webkit-scrollbar-thumb{
+    background: #DBA740;
+    border-radius: 50px;
+}
+
+
+h2{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: white;
+}
+
+.lbl{
+    color: white;
+    margin-top: 15px;
+    font-size: 18px;
+
+}
+
+.dt{
+    color: white;
+    background: #ffffff00;
+    border: 2px solid white;
+    border-radius: 15px;
+
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+.frm{
+    border: 1px solid white;
+    width: 900px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.frm2{
+    
+    border: 1px solid white;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+.btn_g{
+    margin: 10px;
+    width: 200px;
+}
